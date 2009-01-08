@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Usokomaker Today's Probability Widget
-Plugin URI: http://www.vjcatkick.com/?p=3764
+Plugin URI: http://www.vjcatkick.com/?p=4769
 Description: Display Today's Probability from Usokomaker.
 Version: 0.0.4
 Author: V.J.Catkick
