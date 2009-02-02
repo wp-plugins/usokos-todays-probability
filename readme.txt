@@ -1,6 +1,6 @@
 === Usoko's Todays Probability ===
 Contributors: V.J.Catkick
-Donate link: http://www.vjcatkick.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2933164
 Tags: joke, Japanese, sidebar
 Requires at least: 2.5
 Tested up to: 2.7
